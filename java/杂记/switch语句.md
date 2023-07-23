@@ -1,4 +1,4 @@
-#swith 语法完整语法：
+# swith 语法完整语法：
 ```
 switch（switch表达式）{
     case value1: 语句1;break;
