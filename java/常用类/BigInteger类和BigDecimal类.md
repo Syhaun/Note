@@ -1,4 +1,4 @@
-#BigInteger类
+# BigInteger类
 BigInteger(String)
 
 构造方法来创建实例
@@ -12,7 +12,7 @@ nextProbablePrime()
 isPorbablePrime(int certainty)
 
 判断是不是素数
-#BigDecimal
+# BigDecimal
 其对象可以达到任意精度
 
 toBigInteger()
