@@ -1,5 +1,5 @@
-#String
-##基本方法
+# String
+## 基本方法
 
 length()
 
@@ -14,14 +14,14 @@ toLowerCase()
 
 trim()
 返回去掉了两边空白字符的新字符串
-##输入
+## 输入
 
 next()方法
   读取以空白字符结束的字符串
 
 nextLine() 
  读取以按下回车键结束的字符串
-##字符串比较
+## 字符串比较
 
 equals(s1)
 
@@ -33,7 +33,7 @@ compareTo(s1)
 
 eg：s1 = abc;s2 = abg;
     s1.compareTo(s2) 返回 -4
-##获得子字符串
+## 获得子字符串
 
 substring(beginIndex) 
 返回从指定位置 beginIndex 到字符串的结束
@@ -41,7 +41,7 @@ substring(beginIndex)
 substring(index1,index2) 
 返回从下标为 index1 到 ==index2 - 1== 的子串
 
-##查找字符串中的字符或者子串
+## 查找字符串中的字符或者子串
 indexOf(ch) 
 返回字符串中第一个出现ch的下标，没有返回-1
 
@@ -61,7 +61,7 @@ lastIndexOf(s)
 
 lastIndexOf(s,fromIndex)
 
-###替换和拆分字符串
+### 替换和拆分字符串
 replace(oldchar ,new char)
 
 将老字符替换为新字符，然后返回新的字符串
@@ -74,7 +74,7 @@ split(String)
 
 返回一个字符串数组，其中包含被分隔符拆分的字符串集
 
-###字符串与数组之间的转换
+### 字符串与数组之间的转换
 
 toCharArray()
 

@@ -1,4 +1,4 @@
-#Random类
+# Random类
 Random()
 以当前时间为种子创建一个Random对象
 

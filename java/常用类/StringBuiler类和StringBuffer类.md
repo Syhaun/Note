@@ -1,9 +1,9 @@
-#StringBuilder
-##加到末尾
+# StringBuilder
+## 加到末尾
 append(char[])
 append(char[],起始位置，长度)
 append(string)
-##删除
+## 删除
 delete(起始位置，结束位置) 
 
 删除从起始位置到结束位置-1的字符
@@ -12,7 +12,7 @@ deleteCharAt(int)
 
 删除给定下标的字符
 
-##插入
+## 插入
 
 insert(index,char[],offset,len)
 
