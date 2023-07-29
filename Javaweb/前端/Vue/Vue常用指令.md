@@ -12,3 +12,11 @@
 |v-else||
 |v-show|根据条件展示某元素,区别在于切换的是display属性的值|
 |v-for|列表渲染,遍历容器的元素或者对象的属性|
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
