@@ -16,6 +16,6 @@ Obiect o = new Student();
 ```
 Student b = (Student)o;
 ```
-###instanceof
+### instanceof
 在尝试转化之前确保该对象是另外一个对象的实例
 `a instanceof b`判断a是否b的实例 
