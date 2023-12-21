@@ -6,7 +6,7 @@
 
 `redis-cli [options][commonds]`
 
-![Alt text](image.png)
+![Alt text](image-8.png)
 
 # 图形化界面
 

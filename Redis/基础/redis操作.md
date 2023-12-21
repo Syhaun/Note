@@ -2,7 +2,7 @@
 
 Redis ÊÇÒ»¸ökey-valueµÄÊı¾İ¿â,keyÒ»°ãÊÇStringÀàĞÍ,²»¹ıvalueµÄÀàĞÍ¶àÖÖ¶àÑù
 
-![Alt text](image-1.png)
+![Alt text](image-9.png)
 
 # RedisÍ¨ÓÃÃüÁî
 
@@ -10,27 +10,27 @@ Redis ÊÇÒ»¸ökey-valueµÄÊı¾İ¿â,keyÒ»°ãÊÇStringÀàĞÍ,²»¹ıvalueµÄÀàĞÍ¶àÖÖ¶àÑù
 
 ÃüÁî´°¿Ú²éÑ¯
 
-![Alt text](image-2.png)
+![Alt text](image-10.png)
 
 * KEYS:²é¿´·ûºÏÄ£°åµÄËùÓĞkey(²»½¨ÒéÔÚÉú²ú»·¾³Ê¹ÓÃ)
 
-![Alt text](image-3.png)
+![Alt text](image-11.png)
 
 * DEL:É¾³ıÒ»¸öÖ¸¶¨µÄkey(·µ»ØÖµ´ú±í³É¹¦É¾³ıµÄÊıÁ¿)
 
-![Alt text](image-4.png)
+![Alt text](image-12.png)
 
 * EXISTS:ÅĞ¶ÏÒ»¸ökeyÊÇ·ñ´æÔÚ(1ÊÇ0·ñ)
 
-![Alt text](image-6.png)
+![Alt text](image-14.png)
 
 * EXPIRE:¸øÒ»¸ökeyÉèÖÃÓĞĞ§ÆÚ,ÓĞĞ§ÆÚµ½ÆÚÊ±key»á±»×Ô¶¯É¾³ı
 
-![Alt text](image-7.png)
+![Alt text](image-15.png)
 
 * TTL:²é¿´Ò»¸öKEYµÄÊ£ÓàÓĞĞ§ÆÚ
 
-![Alt text](image-8.png)
+![Alt text](image-16.png)
 
     1.·µ»ØÖµÎª -2,±íÊ¾ÉèÖÃÓĞĞ§ÆÚµÄkeyÓĞĞ§ÆÚ½áÊø
     2.·µ»ØÖµÎª -1,±íÊ¾ÓÀ¾ÃÓĞĞ§
@@ -39,9 +39,9 @@ Redis ÊÇÒ»¸ökey-valueµÄÊı¾İ¿â,keyÒ»°ãÊÇStringÀàĞÍ,²»¹ıvalueµÄÀàĞÍ¶àÖÖ¶àÑù
 
 RedisµÄkeyÔÊĞíÓÖ¶à¸öµ¥´ÊĞÎ³É²ã¼¶»ú¹¹,¶à¸öµ¥´ÊÖ®¼äÓÃ:¸ô¿ª
 
-![Alt text](image-11.png)
+![Alt text](image-19.png)
 
-![Alt text](image-12.png)
+![Alt text](image-20.png)
 
 # ·ÇÍ¨ÓÃÖ¸Áî
 
@@ -55,15 +55,15 @@ StringÀàĞÍ,×Ö·û´®ÀàĞÍ,redisÖĞ×î¼òµ¥µÄ´æ´¢ÀàĞÍ,valueÊÇ×Ö·û´®,¸ù¾İ×Ö·û´®µÄ¸ñÊ½²»Í¬
 
 ÎŞÂÛÄÄÒ»ÖÖ¸ñÊ½,µ×²ã¶¼ÊÇ×Ö½ÚÊı×éĞÎÊ½´æ´¢,±àÂë·½Ê½²»ÓÃ.
 
-![Alt text](image-9.png)
+![Alt text](image-17.png)
 
 ## HashÀàĞÍ
 
 HashÀàĞÍ,Ò²½ĞÉ¢ÁĞ,ÆävalueÊÇÒ»¸öÎŞĞò×Öµä,ÀàËÆÓÚjavaÖĞµÄHaahMap½á¹¹
 
-![Alt text](image-13.png)
+![Alt text](image-21.png)
 
-![Alt text](image-14.png)
+![Alt text](image-22.png)
 
 ## ListÀàĞÍ
 
@@ -72,7 +72,9 @@ RedisÖĞµÄlistÀàĞÍÓëjavaµÄlinkedListÀàËÆ,¿ÉÒÔ¿´×÷ÊÇÒ»¸öË«ÏòÁ´±í½á¹¹.¼´¿ÉÒÔÖ§³ÖÕıÏ
 
 ÌØÕ÷:ÓĞĞò;ÔªËØ¿ÉÒÔÖØ¸´;²åÈëºÍÉ¾³ı¿ì;²éÑ¯ËÙ¶ÈÒ»°ã
 
-![Alt text](image-15.png)
+![Alt text](image-23.png)
+
+![Alt text](image-24.png)
 
 
 ## set ÀàĞÍ
@@ -81,6 +83,17 @@ RedisµÄset½á¹¹ÓëjavaÖĞµÄhashsetÀàËÆ,¿ÉÒÔ¿´×÷Ò»¸övalueÎªnullµÄhashmap.
 
 ÌØÕ÷: ÎŞĞò,ÔªËØ²»¿ÉÖØ¸´,²éÕÒ¿ì,Ö§³Ö½»¼¯,²¢¼¯,²î¼¯µÈ¹¦ÄÜ
 
+![Alt text](image-25.png)
+
+## sortedSetÀàĞÍ
+
+RedisµÄSortedSetÊÇÒ»¸ö¿ÉÅÅĞò¼¯ºÏ,ÓëjavaÖĞµÄTreeSetÀàËÆ,µ«ÊÇµ×²ãÊı¾İ½á¹¹²î±ğºÜ´ó.SortedSetÖĞµÄÃ¿Ò»¸öÔªËØ¶¼´øÓĞÒ»¸öscoreÊôĞÔ,¿ÉÒÔ»ùÓÚscoreÊôĞÔ¶ÔÔªËØÅÅĞò,µ×²ãµÄÊµĞĞÊÇÒ»¸öÌø±í¼Óhash±í.
+
+ÌØĞÔ:¿ÉÅÅĞò;ÔªËØ²»ÖØ¸´;²éÑ¯ËÙ¶È¿ì(ÓÉÓÚ¿ÉÅÅĞòµÄÌØĞÔ,³£³£±»ÓÃÀ´ÊµÏÖÅÅĞĞ°ñÕâÑùµÄ¹¦ÄÜ)
+
+![Alt text](image-26.png)
+
+**ËùÓĞµÄÅÅÃûºÍ¶¼ÊÇÉıĞò,Èç¹ûÒª½µĞòÔòÒªÔÚÃüÁîµÄzºóÃæÌí¼ÓREV**
 
 
 
