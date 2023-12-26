@@ -29,3 +29,27 @@ springDataRedisÖĞÌá¹©ÁËRedisTemplate¹¤¾ßÀà,ÆäÖĞ·â×°ÁË¸÷ÖÖ¶ÔRedisµÄ²Ù×÷.²¢ÇÒ½«²»Í
 4. ±àĞ´²âÊÔ
 
 ![Alt text](image-41.png)
+
+
+
+RedisTemplate¿ÉÒÔ½ÓÊÕÈÎÒâObject×÷ÎªÖµĞ´ÈëRedis,Ö»²»¹ıĞ´ÈëÇ°»á°ÑObjectĞòÁĞ»¯Îª×Ö½ÚĞÎÊ½,Ä¬ÈÏÊÇ²ÉÓÃJDKĞòÁĞ»¯
+
+![Alt text](image-43.png)
+
+# SpringDataRedisµÄĞòÁĞ»¯·½Ê½
+
+## RedisTemplate
+
+![Alt text](image-44.png)
+
+![Alt text](image-47.png)
+
+## StringRedisTemplate
+
+![Alt text](image-48.png)
+
+![Alt text](image-49.png)
+
+![Alt text](image-50.png)
+
+![Alt text](image-51.png)
