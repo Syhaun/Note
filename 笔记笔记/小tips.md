@@ -6,3 +6,7 @@ ctrl+r
 alt+insert
 # IDEA一键格式化代码
 ctrl+alt+L
+# IDEA跳转到方法的实现类
+ctrl+alt+鼠标单击
+# IDEA快捷实现if
+在语句后输入 .if 可快速创建if语句
