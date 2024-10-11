@@ -1,5 +1,5 @@
 # 结构标签
-```
+```html
 <html>
     <head>
         <title>标题</title>
