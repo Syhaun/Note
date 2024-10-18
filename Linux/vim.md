@@ -64,7 +64,7 @@ vim打开后默认的模式就是普通方式
 
 `:!ls`:用于显示当前目录的内容
 `!rm FILENAME`:用于删除名为FILENAME的文件
-`:w FILEMNAME`:将当前vim中正在编辑的文件另存为FILENAME文件 
+`:w FILENAME`:将当前vim中正在编辑的文件另存为FILENAME文件 
 
 ### vim的功能设定
 
